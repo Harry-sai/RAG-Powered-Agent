@@ -99,8 +99,7 @@ Checks whether important query keywords appear in retrieved documents.
 
 ### Retrieval Dashboard Example
 
-<img width="1688" height="767" alt="Screenshot 2025-12-28 000559" src="https://github.com/user-attachments/assets/2a60ab93-7c18-4d93-8184-6e478b082b93" />
-
+<img width="1794" height="773" alt="Screenshot 2026-02-11 010755" src="https://github.com/user-attachments/assets/77a32040-9add-4de6-9c2a-1f58a8dd3ce3" />
 
 The bar chart shows performance across categories like:
 
